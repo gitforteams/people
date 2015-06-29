@@ -14,3 +14,7 @@ Here are a few suggestions of what you can do to help:
 - Clone the repository and edit the files, then open a pull request with the updated file.
 - Clone the respository and make new people! Submit a pull request with your suggestions for new characters.
 - Share this repository with others who might be interested in contributing.
+
+# Additional Resources
+
+For more information about drawing gender-neutral user images, read Molly Clare Wilson's blog post [No more "put a skirt on it"](http://molly.is/writing/no-more-put-a-skirt-on-it%20copy/).
