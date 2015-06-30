@@ -2,9 +2,13 @@
 
 Please help me improve diversity in how I represent people when teaching Git. You may have suggestions for the actual drawings, for the visual representation of people, or for the naming of files.
 
+![Community of figures including white and non-white figures; hairdos typically seen on men and women; and a head covering.](sample-community.png)
+
 These diagrams might be used in print, at face-to-face workshops, online as text-based articles, or as videos. You will be credited in this repository for the contributions you make, but the license does not guarantee you will be credited in all uses of the images in all formats. i.e. please be willing to put your contribution into public domain when submitting your work.
 
-Currently I am focused on *black and white* images which are high contrast, vector-based, and *print-friendly* for the use in the upcoming book, [Git for Teams](http://shop.oreilly.com/product/0636920034520.do).
+Currently I am focused on *black and white images* which are high contrast, vector-based, and *print-friendly* for the use in the upcoming book, [Git for Teams](http://shop.oreilly.com/product/0636920034520.do).
+
+![Diagram used to explain centralized version control systems with a white female character; and non-white male character.](sample-usage.png)
 
 # This is fantastic! How Can I Help?
 
