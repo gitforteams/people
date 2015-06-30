@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
-<svg id="svg13403" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="23.414mm" width="13.686mm" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" viewBox="0 0 48.493197 82.961807">
+<svg id="svg13403" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="23.414mm" viewBox="0 0 48.493197 82.961807" width="13.686mm" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
  <metadata id="metadata13408">
   <rdf:RDF>
    <cc:Work rdf:about="">
@@ -16,10 +16,10 @@
    <ellipse id="path3340" rx="30.636" ry="30.078" cy="419.71" cx="-324.58" fill="#f9f9f9"/>
    <path id="path3348" d="m-365.57 544.19s47.496-2.4163 96.98 0.14794l-34.53-99.161c-21.188 20.992-40.45 1.3658-40.45 1.3658z" fill-rule="evenodd" stroke="#000" stroke-width=".42614px" fill="#e6e6e6"/>
    <ellipse id="path4185" rx="3.1239" ry="2.7903" cy="418.16" cx="-332.45" fill="#2b0000"/>
-   <path id="path4250" d="m-335.63 424.55s2.308 10.064 8.9157 10.479c6.7604 0.4246 12.771-9.3463 12.771-9.3463" stroke="#000" stroke-width=".36574px" fill="none"/>
+   <path id="path4250" stroke="#000" stroke-width=".36574px" fill="none" d="m-335.63 424.55s2.308 10.064 8.9157 10.479c6.7604 0.4246 12.771-9.3463 12.771-9.3463"/>
    <ellipse id="path4185-0" rx="3.1239" ry="2.7903" cy="418.08" cx="-319.64" fill="#2b0000"/>
-   <path id="path4250-5" d="m-331.16 422.23s0.81097 3.3534 3.1328 3.4917c2.3755 0.14147 4.4875-3.1142 4.4875-3.1142" stroke="#000" stroke-width=".12514px" fill="none"/>
-   <g id="g13331" fill-rule="evenodd" fill="#b3b3b3">
+   <path id="path4250-5" stroke="#000" stroke-width=".12514px" fill="none" d="m-331.16 422.23s0.81097 3.3534 3.1328 3.4917c2.3755 0.14147 4.4875-3.1142 4.4875-3.1142"/>
+   <g id="g13331" fill="#b3b3b3" fill-rule="evenodd">
     <path id="path4156" d="m-357.1 410.2c14.706-4.7599 31.355-3.148 44.875 4.3443 9.1942 5.0954 16.919 12.808 22.03 21.993 5.1-7.8489 7.03-17.696 5.2704-26.889-1.7597-9.1934-7.1895-17.631-14.828-23.042-5.0231-3.5584-10.955-5.8228-17.071-6.517-6.1165-0.69422-12.405 0.18326-18.098 2.5254-5.6928 2.3421-10.778 6.1439-14.635 10.941-3.8571 4.7975-6.478 10.581-7.5428 16.644z"/>
     <path id="path13324" d="m-354.64 408.03c2.0227 6.7061 3.6409 6.8585 3.6409 6.8585l1.2136-6.7061 4.0455 4.2675 2.0228-5.944z"/>
    </g>
