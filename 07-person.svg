@@ -1,0 +1,19 @@
+<svg version="1.1" id="07-person" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" 
+  x="0px" y="0px" width="500px" height="800px" viewBox="0 0 500 800" enable-background="new 0 0 500 800" xml:space="preserve">
+<path class="body" fill="#333333" stroke="#111111" stroke-width="8" stroke-miterlimit="10" 
+  d="M110.7,709.6C88.2,665.5,107.7,334,229,334c108.2,0,103,317.3,87.7,368.1C303.6,745.7,130.4,748.3,110.7,709.6z"/>
+<path class="head" fill="#EEEEEE" stroke="#111111" stroke-width="8" stroke-miterlimit="10" 
+  d="M136.7,251c-7.2-54.8,18-87,87-87c65.1,0,96,32.5,87,87c-8.7,52.7-39,100-87,100C175.6,351,144,306.7,136.7,251z"/>
+<g class="face">
+  <path fill="#EEEEEE" stroke="#111111" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" 
+  d="M178.1,279.7c11.7,10.4,26,44,43.5,42.9c17.2-1,35.2-36.1,47.6-47.8L178.1,279.7z"/>
+  <path fill="none" stroke="#111111" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" 
+  d="M175,238c10.7-8.2,21.8-11.4,34-2"/>
+  <path fill="none" stroke="#111111" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" 
+  d="M241,238c10.7-8.2,21.8-11.4,34-2"/>
+</g>
+<path class="hair" fill="#777777" stroke="#111111" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" 
+  d="M139.1,265.1c-2.1-17.3,6.2-59.1,19.9-69.4c16.1-12.2,47.3,6.8,68.3,7c12.3,0.1,46.8-17,55.7-12.7c19.8,9.7,21.3,28,28.2,57.4
+  C352,170,280.2,169.8,283,100c-25.2,15-25.7,63.7-45,64c3.3-15.3-3.6-49.6-11-67.7c-11.9,25,2.9,40.2-20.7,56.7
+  c-8.3-17-32.7-28.3-45.7-66c-9.4,25,21.9,68.1,5.2,74.4c-10.7-17.7-21.4-8.1-39.5-17.4C151.2,197.3,112.3,248,139.1,265.1z"/>
+</svg>
