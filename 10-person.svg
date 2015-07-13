@@ -1,0 +1,23 @@
+<svg version="1.1" id="10-person" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+  x="0px" y="0px" width="500px" height="800px" viewBox="0 0 500 800" enable-background="new 0 0 500 800" xml:space="preserve">
+<path class="body" fill="#DDDDDD" stroke="#111111" stroke-width="8" stroke-miterlimit="10"
+  d="M157,715.8C132.3,705.6,125.7,278,252,278c137.6,0,120.6,419.6,105,431.2S180.1,725.4,157,715.8z"/>
+<path class="head" fill="#DDDDDD" stroke="#111111" stroke-width="8" stroke-miterlimit="10"
+  d="M155.6,196c0-55.2,36-100,93.2-100C311,96,342,140.8,342,196s-59,100-93.2,100C215,296,155.6,251.2,155.6,196z"/>
+<path class="beard" fill="#777777" stroke="#111111" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10"
+  d="M204.7,229c25.7-19,65.8-16.1,85.7-6c18.2,9.3,25.5,43,22,66.7c-3.7,25.2-40,72.9-46,86.7c-6.1,14-1.5,34.7-0.3,48.3
+  c-61.7-7-34.5-83.2-41.3-93.3c-8.3-12.3-34.4-21.7-37.3-40C184.5,273.7,189.4,240.3,204.7,229z"/>
+<path class="hair" fill="#555555" stroke="#111111" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10"
+  d="M311.5,130c-16.8-16.8-50.5,11.2-67.3,14.2c-12.6,2.2-42.1-10.2-64.8,0.2c-12.4,5.6-10.4,52.3-23.7,60
+  c-10.4-9.1-15.7-32.6-12.1-40.2c9.3-19.8,12.2-29.2-8-29c13.2-11.2,37-11.1,46.2-12.2c-8.7-6.8-41.2-12.9-49.9-19.7
+  c17.2,6.2,46.9,1.1,59.1,3.2c-15.5-5.8-33-15.7-36.8-29.2C190,93,215,95.9,270.7,82C338,65.2,373,143.3,342,199.3
+  C321,182,328.6,147.9,311.5,130C311.1,129.6,313.9,132.5,311.5,130z"/>
+<g class="face">
+  <path fill="none" stroke="#111111" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" 
+  d="M303,161.8c-1.5,1.5-29.7,12.7-34,15.7c5.1,2.6,27,10.9,32,14.3"/>
+  <path fill="none" stroke="#111111" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" 
+  d="M202,191.8c1.5-1.5,29.7-12.7,34-15.7c-5.1-2.6-27-10.9-32-14.3"/>
+  <path fill="none" stroke="#111111" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" 
+  d="M234.7,239.7c6.1,0.2,14.6,3.4,19.8,6.7c3,1.9,5,4.5,6.9,7.3"/>
+</g>
+</svg>
